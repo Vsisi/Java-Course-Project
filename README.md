@@ -1,5 +1,6 @@
 # Java-assignment
-Java assignment for the second semester of 2020-2021  
+Java assignment for the second semester of 2020-2021
+Follows the requirement  
 Awful, but not that awful  
 For user guide, go for instructions.pdf  
 For source code, go for directory src  
