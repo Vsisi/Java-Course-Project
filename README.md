@@ -1,5 +1,6 @@
 # Java-assignment
 Java assignment for the second semester of 2020-2021  
+Awful, but not that awful  
 For user guide, go for instructions.pdf  
 For source code, go for directory src  
 For image resources, go for directory img  
