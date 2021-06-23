@@ -74,7 +74,10 @@ class Constant{
          DEFAULT_SHIP_Y = (int)(CONTENTPANE_HEIGHT-DEFAULT_SHIP_HEIGHT)/2;
     }
 
-    public static String BOUGHT_ACTION = "motou";
+    public static String DD_BOUGHT_ACTION = "motou";
+    public static String CL_BOUGHT_ACTION = "motou";
+    public static String BB_BOUGHT_ACTION = "motou";
+    public static String CV_BOUGHT_ACTION = "motou";
     public static String TOUCH_ACTION = "touch";
 
     private static String[] DD_NAME = {"anshan", "changchun", "fushun", "taiyuan"};
