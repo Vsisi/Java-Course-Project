@@ -135,7 +135,7 @@ class Destroyer extends Ship{
         System.out.println("DD dayo");
     }
     public void boughtAnimation() {
-        setImg(Constant.BOUGHT_ACTION);
+        setImg(Constant.DD_BOUGHT_ACTION);
     }
 }
 
@@ -151,7 +151,7 @@ class Cruiser extends Ship{
         System.out.println("CL dayo");
     }
     public void boughtAnimation() {
-        setImg(Constant.BOUGHT_ACTION);
+        setImg(Constant.CL_BOUGHT_ACTION);
     }}
 
 class Battleship extends Ship{
@@ -166,7 +166,7 @@ class Battleship extends Ship{
         System.out.println("BB dayo");
     }
     public void boughtAnimation() {
-        setImg(Constant.BOUGHT_ACTION);
+        setImg(Constant.BB_BOUGHT_ACTION);
     }
 }
 
@@ -183,7 +183,7 @@ class Carrier extends Ship{
         System.out.println("CV dayo");
     }
     public void boughtAnimation() {
-        setImg(Constant.BOUGHT_ACTION);
+        setImg(Constant.CV_BOUGHT_ACTION);
     }
 }
 
