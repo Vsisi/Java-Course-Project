@@ -1,7 +1,7 @@
 # Java-assignment
 Java assignment for the second semester of 2020-2021  
 Follows the requirement  
-Awful, but not that awful  
+Shitty work, just4recording
 About user guide, go for tutorial.pdf  
 About source code, go for directory src  
 About image resources, go for directory img  
